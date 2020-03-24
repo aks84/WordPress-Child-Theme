@@ -2,3 +2,5 @@
 
 View Post and Video description here
 [post - twentytwenty child theme](https://tubemint.com/twentytwenty-child-theme/)
+
+## Don't forget to replace default thumbnail under /template-parts/featured-image.php
