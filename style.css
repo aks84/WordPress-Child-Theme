@@ -1,0 +1,30 @@
+/*
+Theme Name: myChildTheme
+Template: twentytwenty
+Author: TubeMint
+Author URI: https://tubemint.com
+Description: 2020 child theme with custom blog template, read-more button and default thumbnail..
+*/
+
+
+a.readmore {
+    text-decoration: none;
+    font-size: 25px;
+
+}
+
+
+.ReadMore{
+	text-align: center;
+    border: .5px solid lightgray;
+   
+}
+.ReadMore:hover{
+    background: yellowgreen;
+    color: gray;
+}
+
+.ReadMore:focus{
+    background: yellowgreen;
+    color: gray;
+}
